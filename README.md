@@ -20,3 +20,12 @@ Repositórios com exercícios e projetos resolvidos.
 | --- | :---: | :---: |
 | Programação Imperativa | [Exercícios](https://github.com/JoaoRamoss/PI) | - |
 | Laboratórios de informática II | - | [Projeto](https://github.com/JoaoRamoss/LI2PL8G1) |
+
+| 2<sup>o</sup> ano - 1<sup>o</sup> semestre | | |
+| --- | :---: | :---: |
+| Comunicação de Dados | - | [Projeto](https://github.com/JoaoRamoss/CD_Projeto) |
+
+| 2<sup>o</sup> ano - 2<sup>o</sup> semestre | | |
+| --- | :---: | :---: |
+| Sistemas Operativos | [Exercícios](https://github.com/JoaoRamoss/SO) | - |
+| Programação Orientada a Objetos | [Exercícios](https://github.com/JoaoRamoss/POO) | - |
