@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Email badge](https://img.shields.io/badge/-sofiarsantos31-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jprmsilva05@gmail.com)
-[![Instagram badge](https://img.shields.io/badge/-@sofiar.santos-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ramoss05/)
+[![Email badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jprmsilva05@gmail.com)
+[![Instagram badge](https://img.shields.io/badge/-@ramoss05-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ramoss05/)
 
 Repositórios com exercícios e projetos resolvidos.
 
