@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 Repositórios com exercícios e projetos resolvidos.
-<!--
-**JoaoRamoss/JoaoRamoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 Studying Compputer Engineering @ Universidade do Minho
 - 🌱 I’m currently learning ...
