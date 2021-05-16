@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+Studying Computer Engineering at Universidade do Minho.
 <!--
 **JoaoRamoss/JoaoRamoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- MEDIUM:START --> <!-- MEDIUM:END --> and <!-- DEVTO:START --> <!-- DEVTO:END -->
 
 Here are some ideas to get you started:
 
