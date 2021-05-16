@@ -12,3 +12,6 @@ Repositórios com exercícios e projetos resolvidos.
 
 ## Projetos e exercícios resolvidos
 
+| 1<sup>st</sup> ano - 1<sup>st</sup> semestre | | |
+| --- | :---: | :---: |
+| Laboratórios de Informática I | - | [Project](https://github.com/JoaoRamoss/LI2PL8G1) |
