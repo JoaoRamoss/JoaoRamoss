@@ -15,3 +15,7 @@ Repositórios com exercícios e projetos resolvidos.
 | 1<sup>o</sup> ano - 1<sup>o</sup> semestre | | |
 | --- | :---: | :---: |
 | Laboratórios de Informática I | - | [Projeto](https://github.com/JoaoRamoss/LI1) |
+
+| 1<sup>o</sup> ano - 2<sup>o</sup> semestre | | |
+| --- | :---: | :---: |
+| Programação Imperatica | [Exercícios](https://github.com/JoaoRamoss/PI) | - |
