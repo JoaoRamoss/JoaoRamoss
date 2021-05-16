@@ -29,3 +29,8 @@ Repositórios com exercícios e projetos resolvidos.
 | --- | :---: | :---: |
 | Sistemas Operativos | [Exercícios](https://github.com/JoaoRamoss/SO) | - |
 | Programação Orientada a Objetos | [Exercícios](https://github.com/JoaoRamoss/POO) | - |
+
+## 💻 Línguas de Programação
+* C
+* Java
+* Haskell
