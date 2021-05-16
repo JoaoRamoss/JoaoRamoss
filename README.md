@@ -18,4 +18,5 @@ Repositórios com exercícios e projetos resolvidos.
 
 | 1<sup>o</sup> ano - 2<sup>o</sup> semestre | | |
 | --- | :---: | :---: |
-| Programação Imperatica | [Exercícios](https://github.com/JoaoRamoss/PI) | - |
+| Programação Imperativa | [Exercícios](https://github.com/JoaoRamoss/PI) | - |
+| Laboratórios de informática II | - | [Projeto](https://github.com/JoaoRamoss/LI2PL8G1) |
