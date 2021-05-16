@@ -14,4 +14,4 @@ Repositórios com exercícios e projetos resolvidos.
 
 | 1<sup>o</sup> ano - 1<sup>o</sup> semestre | | |
 | --- | :---: | :---: |
-| Laboratórios de Informática I | - | [Project](https://github.com/JoaoRamoss/LI2PL8G1) |
+| Laboratórios de Informática I | - | [Projeto](https://github.com/JoaoRamoss/LI1) |
