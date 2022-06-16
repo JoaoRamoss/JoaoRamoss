@@ -12,3 +12,4 @@ Repositórios com exercícios e projetos resolvidos.
 * C
 * Java
 * Haskell
+* Python
