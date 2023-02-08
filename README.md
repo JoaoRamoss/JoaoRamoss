@@ -1,5 +1,5 @@
 [![Email badge](https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jprmsilva05@gmail.com)
-
+[![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 Some of my projects and exercises
 
 - 🔭 Informatics Engineering @ Universidade do Minho
