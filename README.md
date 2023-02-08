@@ -10,5 +10,5 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=joaoramoss&count_private=true&show_icons=true&theme=nord&hide=contribs&hide_border=true"/>
-<img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRamoss&layout=compact&theme=nord&hide_border=true"/>
+<img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRamoss&layout=compact&theme=nord&hide_border=true"/>
 </div>
