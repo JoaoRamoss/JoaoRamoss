@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Silva</h1>
 
-- 🔭 Master's Degree student in Informatics Engineering @ University of Minho
+- 🔭 Master's Degree student in Informatics Engineering @ Universidade do Minho
   - Graphical Computing
   - Software Development, Validation and Maintenance 
 
