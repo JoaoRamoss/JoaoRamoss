@@ -3,7 +3,7 @@
 - 🔭 Master's Degree student in Informatics Engineering @ Universidade do Minho
   - Graphical Computing
   - Software Development, Validation and Maintenance 
-
+<h2 align="center"><a href="https://joaoramoss.github.io/Personal-Website/" target="_blank">Visit my website!</a></h2>
 ---
 
 <h3 align="center"> ☎️ Contact me! </h1>
